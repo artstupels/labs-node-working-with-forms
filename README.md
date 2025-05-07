@@ -1,9 +1,9 @@
 
-# Lab: Extend Auth0 Identity Flows with Forms
+# Lab: Implement External User Verification with Auth0 Forms
 
-Extend login and signup flows within your Auth0 tenant’s domain using Auth0 Forms; no more redirects!
+Launching a private beta for your app that requires external user verification? There's many solutions to this use case, but with Auth0 Forms you can gate access to app login without blocking user sign up, so they can easily join in when your app goes public. It's as easy as configuring an Auth0 Form and writing a Post-Login Action to prompt the user for a provided verification code.
 
-Forms for Actions is a new visual editor tool that streamlines the registration and login flows. Forms allow you to build custom forms connected to the Universal Login page. With Forms, you don't need to redirect users to your application to prompt end users for additional data that should be available at or after the registration or login process. You can build and manage the identity flow using UI components, custom business logic, and integration with APIs based on a low-code solution. This gives you the flexibility to create personalized experiences that increase user conversion and retention!
+Forms for Actions is a visual editor tool that streamlines the registration and login flows. Forms allow you to build custom forms connected to the Universal Login page. With Forms, you don't need to redirect users to your application to prompt end users for additional data that should be available at or after the registration or login process. You can build and manage the identity flow using UI components, custom business logic, and integration with APIs based on a low-code solution. This gives you the flexibility to create personalized experiences that increase user conversion and retention!
 
 Forms enables you to build use cases like:
 
