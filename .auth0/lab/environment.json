@@ -2,7 +2,7 @@
   "name": "Lab Node Create an Application",
   "version": "1.1.2",
   "unauthenticatedTour": ".auth0/lab/guides/signin.tour",
-  "postConfigureTour": ".auth0/lab/guides/lab-setup.tour",
+  "postConfigureTour": ".auth0/lab/guides/lab-forms.tour",
   "clients": [
     {
       "name": "Lab: Web App",
