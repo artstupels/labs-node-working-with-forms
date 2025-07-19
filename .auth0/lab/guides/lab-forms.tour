@@ -1,6 +1,6 @@
 {
   "$schema": "https://aka.ms/codetour-schema",
-  "title": "2: Implement External User Verification with Auth0 Forms",
+  "title": "1: Implement External User Verification with Auth0 Forms",
   "steps": [
     {
       "title": "1. Set up the MockDatabase",
